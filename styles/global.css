@@ -5,5 +5,12 @@
 }
 
 body {
+  width: 500px;
+  margin: 4% auto;
   font-family: 'Source Sans Pro', sans-serif;
+  letter-spacing: 5px;
+  font-size: 1.8rem;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
 }
